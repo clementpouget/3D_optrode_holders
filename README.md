@@ -2,6 +2,8 @@
 
 This repo holds the 3D files for optrodes holder used in my poster (optrode_holder_flicre_v2.ipt), and also in the lab to give another example of use (optrode_holder_maelle.ipt).
   
+This holder was inspired by the UCLA miniscope 3D printed lens holder that is available to print [here](https://www.shapeways.com/product/MRPGX86NR/grin-lens-holder-3-51-0-575mm-opening-32x?optionId=68028334) (if anybody can put their hand on an actual reference, it would be mch appreciated).
+  
 ## optrode_holder_flicre_v2.ipt  
   
 ### In this case, the holder is:  
@@ -45,4 +47,8 @@ Take bregma with both optrodes to make sure they are aligned well, and at the sa
 Once implanted, cover the "optrode" part of the holder with cement. The plastic surrounding the optrodes will stay with them inside of the animal (Bonus, it really helps the cement to hold on to the optrodes). Once the cement has set, just drill out the smaller part of the holder (it's made for this reason) and finish covering up with cement.  
 
 
+## contact and use  
+  
+Feel free to use these 3D models as basis to make your own, or even use those directly. If you have any suggestions, printing tips or ideas to better the design, please submit an issue on this repo!  
 
+Clément Pouget - C4Team @ ESPCI Paris
